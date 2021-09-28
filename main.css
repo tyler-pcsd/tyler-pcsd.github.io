@@ -16,3 +16,7 @@ nav ul {
 nav ul li {
     margin: 1em;
 }
+
+.game-card-box {
+    display: flex;
+}
