@@ -1,0 +1,18 @@
+body {
+    padding: 1em;
+    text-align: center;
+    align-items: center;
+}
+
+main {
+    padding: 1em;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+nav ul li {
+    margin: 1em;
+}
