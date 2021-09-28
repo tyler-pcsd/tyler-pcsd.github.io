@@ -4,6 +4,8 @@
 
 ## How to Request More Activities
 
+[Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdSV06wWveLBiz1o6FNI9cvJBL9kt4MYgrBF1P2UATOmKBU8Q/viewform)
+
 ## How to Add More Activities
 
 * Find an activity from this list under the **browser-based** section:
