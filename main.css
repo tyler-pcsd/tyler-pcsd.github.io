@@ -29,8 +29,32 @@ nav ul li {
 .site-logo {
     height: 100%;
     width: 30%;
+    transition: 0.3s;
+}
+
+.site-logo:hover {
+    opacity: 0.6;
 }
 
 .header-div {
     display: flex;
+}
+
+.icon-img {
+    width: 3%;
+    height: 3%;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+.icon-img:hover {
+    opacity: 1;
+}
+
+.hover-card {
+    transition: 0.3s;
+}
+
+.hover-card:hover {
+    background-color: lightgray;
 }
