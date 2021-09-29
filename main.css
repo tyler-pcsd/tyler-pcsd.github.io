@@ -20,3 +20,8 @@ nav ul li {
 .activity-card-box {
     display: flex;
 }
+
+.app-store {
+    width: 45%;
+    height: 40%;
+}
