@@ -25,3 +25,12 @@ nav ul li {
     width: 45%;
     height: 40%;
 }
+
+.site-logo {
+    height: 100%;
+    width: 30%;
+}
+
+.header-div {
+    display: flex;
+}
